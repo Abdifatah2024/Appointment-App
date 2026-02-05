@@ -14,7 +14,7 @@ const systemRoutes = [
     element: <PublicRoute />,
     children: [
       {
-        path: "/login",
+        path: "/",
         element: <Login />,
       },
     ],
